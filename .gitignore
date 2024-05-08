@@ -1,0 +1,14 @@
+output/
+trash/
+*.svg
+*.png
+*.jpg
+*.docx
+*.pdf
+*.txt
+*.xlsx
+*.doc
+*.docx
+*.dotx
+.DS_Store
+.Rhistory
