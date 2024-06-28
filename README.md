@@ -1,5 +1,5 @@
 ##### R scripts used in 
-**Characteristics, risk factors, and outcomes of machine learning-derived asthma and allergy trajectories in children: a systematic review and meta-analysis**
+**Machine learning-derived asthma and allergy trajectories in children: a systematic review and meta-analysis**
 ##### Daniil Lisik, Saliha Selin Özuygur Ermis, Gregorio Paolo Milani, Giulia Carla Immacolata Spolidoro, Selin Ercan, Michael Salisu, Faozyat Odetola, Daniele Giovanni Ghiglioni, Danylo Pylov, Emma Goksör, Rani Basna, Göran Wennergren, Hannu Kankaanranta, Bright Ibeabughichi Nwaru
 ##### *In preparation*
 
@@ -15,7 +15,8 @@
 - **summarize-detailed-study-score.r**: quantify computational methodology robustness and plot these data
 - **summarize-meta-analysis-statistics.r**: extract descriptive statistics of the performed meta-analyses (e.g., number of meta-analyses performed in total)
 - **summarize-primary-and-secondary-study-numbers.r**: quantify the number of primary and secondary studies
-- **summarize-quality-assessment-and-year-data.r**: summarize methodological quality assesments and yearly publication trends
+- **summarize-quality-assessments.r**: summarize methodological quality assesments in tabulated form
+- **summarize-quality-assessment-and-year-data.r**: summarize methodological quality assesments and yearly publication trends in figure
 - **summarize-trajectories-number-determinants.r**: quantify and plot length of follow-up, number of diseases investigated, and number of assessment time points in relation to the number of trajectories identified
 
 <br>
