@@ -1,7 +1,7 @@
 ##### R scripts used in 
 **Machine learning-derived asthma and allergy trajectories in children: a systematic review and meta-analysis**
 ##### Daniil Lisik, Saliha Selin Özuygur Ermis, Gregorio Paolo Milani, Giulia Carla Immacolata Spolidoro, Selin Ercan, Michael Salisu, Faozyat Odetola, Daniele Giovanni Ghiglioni, Danylo Pylov, Emma Goksör, Rani Basna, Göran Wennergren, Hannu Kankaanranta, Bright Ibeabughichi Nwaru
-##### *In preparation*
+##### *Under review*
 
 <br>
 
